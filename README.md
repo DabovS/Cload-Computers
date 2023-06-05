@@ -15,5 +15,3 @@ You can use these resources to enhance your understanding of cloud computing and
 The repository provides careful consideration between the engineering need and business vision for the topic. It takes into account both the technical aspects of Cloud Computing and the broader business implications of adopting this technology.
 
 We encourage you to explore the repository and make use of the resources available. If you have any questions or suggestions for improvements, please feel free to open an issue or contribute to the repository.
-
-## References
